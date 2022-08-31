@@ -1,2 +1,4 @@
 23/08/2022 by quaqak#2450: Trying to change the google/youtube api on the windows phone
 24/08/2022 by quaqak#2450: Failed, Looking for developers to help me.
+(late) 30/08/2022 by quaqak#2450: Faiz_Here Joined!
+31/08/2022 by quaqak and faiz_here: Starting to atleast try.
